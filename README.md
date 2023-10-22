@@ -7,6 +7,7 @@
   <img align="center" alt="CSS-3" height="70" width="40" src= "https://www.svgrepo.com/show/452185/css-3.svg">
   <img align="center" alt="JS" height="70" width="40" src= "https://www.svgrepo.com/show/353925/javascript.svg">
   <img align="center" alt="PHP" height="70" width="40" src= "https://www.svgrepo.com/show/373966/php.svg">
+  <img align="center" alt="JAVA" height="70" width="40" src= " https://www.svgrepo.com/show/303654/java-logo.svg">
   <img align="center" alt="MYSQL" height="70" width="40" src= "https://www.svgrepo.com/show/473731/mysql.svg">
   
 </div>
